@@ -1,3 +1,7 @@
+Discontinued
+============
+This repository is no longer actively maintained.
+
 # vagrant
 
 Handle vagrant initialization (with Virtualbox)
